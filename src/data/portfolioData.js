@@ -6,7 +6,6 @@ export const personalInfo = {
   email: "itsprateeksr@gmail.com",
   github: "https://github.com/PrateekSagarIND",
   linkedin: "https://www.linkedin.com/in/prateek-sagar-b9841417b",
-  resumeUrl: "/resume.pdf",
   profileImg: "/profile.jpg",
   about: "I am an M.Tech CSE student at IIIT Delhi specializing in AI/ML, Generative AI, Agentic AI, Retrieval-Augmented Generation, Recommender Systems, and Protein Language Models. I enjoy building practical AI systems, research-driven ML pipelines, and intelligent applications that solve real-world problems."
 };

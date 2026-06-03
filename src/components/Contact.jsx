@@ -51,6 +51,9 @@ const Contact = () => {
               <p className="text-slate-650 font-medium leading-relaxed">
                 I am interested in full-time AI/ML roles, research collaborations, and building state-of-the-art Generative AI systems. Drop me a line!
               </p>
+              <p className="text-sm font-semibold text-purple-700 bg-purple-50/50 border border-purple-100/50 p-3.5 rounded-xl">
+                📝 For resume or collaboration requests, please contact me via email or LinkedIn.
+              </p>
             </div>
 
             {/* Contact Cards */}
