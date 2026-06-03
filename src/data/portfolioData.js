@@ -2,12 +2,12 @@ export const personalInfo = {
   name: "Prateek Sagar",
   title: "AI/ML Engineer",
   subtitle: "GenAI & Agentic AI Practitioner",
-  tagline: "Focused on GenAI, Agentic AI, RAG Systems, Recommender Systems, and Protein Language Modeling.",
+  tagline: "Focused on GenAI, Agentic AI, RAG Systems, Recommender Systems, Protein Language Modeling, and Power BI & Data Analytics.",
   email: "itsprateeksr@gmail.com",
   github: "https://github.com/PrateekSagarIND",
   linkedin: "https://www.linkedin.com/in/prateek-sagar-b9841417b",
   profileImg: "/profile.jpg",
-  about: "I am an M.Tech CSE student at IIIT Delhi specializing in AI/ML, Generative AI, Agentic AI, Retrieval-Augmented Generation, Recommender Systems, and Protein Language Models. I enjoy building practical AI systems, research-driven ML pipelines, and intelligent applications that solve real-world problems."
+  about: "I am an M.Tech CSE student at IIIT Delhi specializing in AI/ML, Generative AI, Agentic AI, Retrieval-Augmented Generation, Recommender Systems, Protein Language Models, and Power BI & Data Analytics. I enjoy building practical AI systems, research-driven ML pipelines, and intelligent applications that solve real-world problems."
 };
 
 export const skillCategories = [
@@ -34,7 +34,8 @@ export const skillCategories = [
       { name: "Python", level: 90 },
       { name: "FastAPI", level: 75 },
       { name: "SQL", level: 80 },
-      { name: "Git and GitHub", level: 85 }
+      { name: "Git and GitHub", level: 85 },
+      { name: "Power BI & Data Analytics", level: 80 }
     ]
   }
 ];
@@ -74,10 +75,10 @@ export const projects = [
     github: "https://github.com/PrateekSagarIND"
   },
   {
-    title: "VAE-based Movie Recommendation System",
-    description: "Built a deep learning based probabilistic recommendation framework using Variational Autoencoders for personalized movie recommendations.",
-    tech: ["Python", "PyTorch", "VAEs", "MovieLens"],
-    github: "https://github.com/PrateekSagarIND"
+    title: "CineMatch – Hybrid Movie Recommendation System",
+    description: "Built a hybrid movie recommendation system using MovieLens data, TMDB metadata, collaborative filtering, embedding-based similarity search, and LLM-based re-ranking for personalized movie recommendations.",
+    tech: ["Python", "FastAPI", "MovieLens", "TMDB", "SVD", "LLM", "Recommendation System"],
+    github: "https://github.com/PrateekSagarIND/Cinematch-Movie-Recommendation-System"
   },
   {
     title: "Single Object Tracking using Computer Vision",
@@ -90,6 +91,12 @@ export const projects = [
     description: "Worked on reinforcement-learning based LLM/agent systems for game-playing and adversarial MCQ competitions.",
     tech: ["Python", "RL", "GRPO", "Qwen", "LoRA"],
     github: "https://github.com/PrateekSagarIND"
+  },
+  {
+    title: "Power BI Business Analytics Dashboard",
+    description: "Built interactive Power BI dashboards for KPI tracking, trend analysis, reporting, and business intelligence. Developed data models, DAX measures, and visual analytics to transform raw data into actionable insights.",
+    tech: ["Power BI", "DAX", "Data Modeling", "Data Visualization", "Business Intelligence"],
+    github: "https://github.com/PrateekSagarIND/Power_BI"
   }
 ];
 
