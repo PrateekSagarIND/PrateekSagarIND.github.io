@@ -1,0 +1,45 @@
+PRATEEK SAGAR
+AI/ML Engineer | GenAI & Agentic AI Practitioner
+Email: itsprateeksr@gmail.com
+GitHub: https://github.com/PrateekSagarIND
+LinkedIn: https://www.linkedin.com/in/prateek-sagar-b9841417b
+
+--------------------------------------------------
+SUMMARY
+M.Tech CSE student at IIIT Delhi specializing in AI/ML, Generative AI, Agentic AI, Retrieval-Augmented Generation, Recommender Systems, and Protein Language Models. I enjoy building practical AI systems, research-driven ML pipelines, and intelligent applications that solve real-world problems.
+
+--------------------------------------------------
+EDUCATION
+IIIT Delhi - M.Tech in Computer Science & Engineering (Specialization: AI/ML)
+GATE CSE 2024 Qualified
+GATE Data Science & AI 2025 Qualified
+
+--------------------------------------------------
+EXPERIENCE
+1. Research Intern | Microbiome Informatics Lab, IIIT Delhi (Jan 2025 - Present)
+- Working on genotoxicity prediction in the human gut microbiome using Transformer-based protein language models, ProtBERT-style embeddings, DIAMOND BLASTp pipelines, and supervised ML/DL evaluation.
+
+2. Teaching Assistant | IIIT Delhi (Aug 2024 - Dec 2024)
+- Assisted in technical courses including Computer Networks, Data Structures & Algorithms, and Computer Organization.
+
+--------------------------------------------------
+SKILLS
+- Programming: Python, SQL
+- AI/ML/DL: Machine Learning, Deep Learning, PyTorch, OpenCV
+- GenAI & Agents: LLMs and RAG, Agentic AI, LangChain, LangGraph, FastAPI
+- Tools: Git, GitHub
+
+--------------------------------------------------
+PROJECTS
+1. Agentic Code Intelligence using A2A + MCP
+- Built an AI-powered code intelligence system using MCP tools and A2A orchestration for file-level summaries, function-level summaries, dependency graphs, and test generation.
+2. YouTube RAG Chatbot
+- Built a retrieval-augmented chatbot that answers questions from YouTube video transcripts using embeddings and vector search.
+3. Genotoxicity Prediction using Protein Language Models
+- Developed ML/DL pipelines for protein sequence classification using transformer-based embeddings and bioinformatics preprocessing.
+4. VAE-based Movie Recommendation System
+- Built a deep learning based probabilistic recommendation framework using Variational Autoencoders for personalized movie recommendations.
+5. Single Object Tracking using Computer Vision
+- Built a custom object tracking pipeline using motion compensation, HOG/LBP features, and hybrid regression models.
+6. 2048 RL Agent / AAIPL Hackathon
+- Worked on reinforcement-learning based LLM/agent systems for game-playing and adversarial MCQ competitions.
