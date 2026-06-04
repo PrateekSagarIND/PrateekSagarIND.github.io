@@ -59,16 +59,19 @@ const Hero = () => {
 
             {/* Action Buttons */}
             <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-4 pt-4">
-              <button
-                onClick={handleContactClick}
+              <a
+                href="/Resume_Prateek_Sagar.pdf"
+                target="_blank"
+                rel="noreferrer"
+                download="Resume_Prateek_Sagar.pdf"
                 className="w-full sm:w-auto inline-flex items-center justify-center space-x-2 gradient-bg hover:opacity-95 text-white font-bold px-8 py-4 rounded-xl shadow-lg shadow-blue-500/20 hover:shadow-xl hover:shadow-blue-500/30 hover:scale-[1.02] active:scale-[0.98] transition-all duration-200 cursor-pointer"
               >
-                {/* Document icon */}
+                {/* Download / Resume icon */}
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="2">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3M3 17v3a1 1 0 001 1h16a1 1 0 001-1v-3M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                 </svg>
-                <span>Resume Available on Request</span>
-              </button>
+                <span>Download Resume</span>
+              </a>
 
               <a
                 href="#contact"
